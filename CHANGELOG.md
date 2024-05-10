@@ -4,16 +4,16 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Common Changelog](https://common-changelog.org/).
 
-[0.3.7]: https://github.com/rhinestonewtf/modulekit/releases/tag/v0.3.7
-[0.3.6]: https://github.com/rhinestonewtf/modulekit/releases/tag/v0.3.6
-[0.3.5]: https://github.com/rhinestonewtf/modulekit/releases/tag/v0.3.5
-[0.3.4]: https://github.com/rhinestonewtf/modulekit/releases/tag/v0.3.4
-[0.3.3]: https://github.com/rhinestonewtf/modulekit/releases/tag/v0.3.3
-[0.3.2]: https://github.com/rhinestonewtf/modulekit/releases/tag/v0.3.2
-[0.3.1]: https://github.com/rhinestonewtf/modulekit/releases/tag/v0.3.1
-[0.3.0]: https://github.com/rhinestonewtf/modulekit/releases/tag/v0.3.0
-[0.2.0]: https://github.com/rhinestonewtf/modulekit/releases/tag/v0.2.0
-[0.1.0]: https://github.com/rhinestonewtf/modulekit/releases/tag/v0.1.0
+[0.3.7]: https://github.com/digiv3rse/account-kit/releases/tag/v0.3.7
+[0.3.6]: https://github.com/digiv3rse/account-kit/releases/tag/v0.3.6
+[0.3.5]: https://github.com/digiv3rse/account-kit/releases/tag/v0.3.5
+[0.3.4]: https://github.com/digiv3rse/account-kit/releases/tag/v0.3.4
+[0.3.3]: https://github.com/digiv3rse/account-kit/releases/tag/v0.3.3
+[0.3.2]: https://github.com/digiv3rse/account-kit/releases/tag/v0.3.2
+[0.3.1]: https://github.com/digiv3rse/account-kit/releases/tag/v0.3.1
+[0.3.0]: https://github.com/digiv3rse/account-kit/releases/tag/v0.3.0
+[0.2.0]: https://github.com/digiv3rse/account-kit/releases/tag/v0.2.0
+[0.1.0]: https://github.com/digiv3rse/account-kit/releases/tag/v0.1.0
 
 ## [0.3.7] - 09-03-2024
 

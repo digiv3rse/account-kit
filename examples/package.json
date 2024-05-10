@@ -8,7 +8,7 @@
     "url": "https://rhinestone.wtf"
   },
   "bugs": {
-    "url": "https://github.com/rhinestonewtf/modulekit/issues"
+    "url": "https://github.com/digiv3rse/account-kit/issues"
   },
   "devDependencies": {
     "@ERC4337/account-abstraction": "github:kopy-kat/account-abstraction#develop",
@@ -49,7 +49,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "repository": "github.com/rhinestonewtf/modulekit",
+  "repository": "github.com/digiv3rse/account-kit",
   "scripts": {
     "fmt": "forge fmt",
     "build": "forge build",
